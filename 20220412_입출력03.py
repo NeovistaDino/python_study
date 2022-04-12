@@ -3,10 +3,11 @@ year = 2020
 
 month = 10
 # 변수 month에 int형 10을 대입함.
-변수    변수값
+
+
 day = 28
-변수 지정
+# 변수 day에 int형 28을 대압함
 
 
 print(year, month, day, sep='/')
-출력.  변수1.  변수2. 변수3. 칸/넣어주는 값
+#print로 출력하고 출력값은 sep (/)로 구분해줌
